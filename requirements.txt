@@ -1,6 +1,5 @@
-flask
-telethon
 aiohttp
 aiohttp-cors
+telethon
 requests
-gunicorn
+uvicorn
